@@ -9,8 +9,8 @@ header {
     padding: 20px;
 }
 
-img {
-    max-width: 100%;
+h1 {
+    font-family: 'Bluu Next', sans-serif;
 }
 
 nav {
@@ -28,6 +28,7 @@ ul {
 
 li {
     display: inline;
+    margin: 0 10px; /* Adjust the margin to your liking */
 }
 
 a {
